@@ -1,0 +1,1328 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2226 -0.2226 -0.2226 -0.2226 -0.2226 -0.2226 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01896 -0.01896 -0.01896 -0.01896 -0.01896 -0.01896 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1405 -0.1405 -0.1405 -0.1405 -0.1405 -0.1405 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0439 -0.0439 -0.0439 -0.0439 -0.0439 -0.0439 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06816 -0.06816 -0.06816 -0.06816 -0.06816 -0.06816 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1235 -0.1235 -0.1235 -0.1235 -0.1235 -0.1235 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07589 -0.07589 -0.07589 -0.07589 -0.07589 -0.07589 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1597 -0.1597 -0.1597 -0.1597 -0.1597 -0.1597 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08684 -0.08684 -0.08684 -0.08684 -0.08684 -0.08684 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1614  0.1614  0.1614  0.1614  0.1614  0.1614 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7631  0.7631  0.7631  0.7631  0.7631  0.7631 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07881 -0.07881 -0.07881 -0.07881 -0.07881 -0.07881 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.5454 -0.5454 -0.5454 -0.5454 -0.5454 -0.5454 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2227 -0.2227 -0.2227 -0.2227 -0.2227 -0.2227 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1781 -0.1781 -0.1781 -0.1781 -0.1781 -0.1781 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.4613 -0.4613 -0.4613 -0.4613 -0.4613 -0.4613 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1578 -0.1578 -0.1578 -0.1578 -0.1578 -0.1578 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2235 -0.2235 -0.2235 -0.2235 -0.2235 -0.2235 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.157  -0.157  -0.157  -0.157  -0.157  -0.157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1116 -0.1116 -0.1116 -0.1116 -0.1116 -0.1116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0449 -0.0449 -0.0449 -0.0449 -0.0449 -0.0449 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05036 0.05036 0.05036 0.05036 0.05036 0.05036 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1172  0.1172  0.1172  0.1172  0.1172  0.1172 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2591  0.2591  0.2591  0.2591  0.2591  0.2591 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1333  0.1333  0.1333  0.1333  0.1333  0.1333 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3662  0.3662  0.3662  0.3662  0.3662  0.3662 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5808  0.5808  0.5808  0.5808  0.5808  0.5808 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.006864 0.006864 0.006864 0.006864 0.006864 0.006864 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7267  0.7267  0.7267  0.7267  0.7267  0.7267 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05774 0.05774 0.05774 0.05774 0.05774 0.05774 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1153  0.1153  0.1153  0.1153  0.1153  0.1153 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4658  0.4658  0.4658  0.4658  0.4658  0.4658 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5158  0.5158  0.5158  0.5158  0.5158  0.5158 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4127  0.4127  0.4127  0.4127  0.4127  0.4127 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3756  0.3756  0.3756  0.3756  0.3756  0.3756 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3157  0.3157  0.3157  0.3157  0.3157  0.3157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2446  0.2446  0.2446  0.2446  0.2446  0.2446 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5944  0.5944  0.5944  0.5944  0.5944  0.5944 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5535  0.5535  0.5535  0.5535  0.5535  0.5535 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4697  0.4697  0.4697  0.4697  0.4697  0.4697 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6143  0.6143  0.6143  0.6143  0.6143  0.6143 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2977 -0.2977 -0.2977 -0.2977 -0.2977 -0.2977 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1819  0.1819  0.1819  0.1819  0.1819  0.1819 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4605  0.4605  0.4605  0.4605  0.4605  0.4605 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.405   0.405   0.405   0.405   0.405   0.405 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4329  0.4329  0.4329  0.4329  0.4329  0.4329 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4348  0.4348  0.4348  0.4348  0.4348  0.4348 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3741  0.3741  0.3741  0.3741  0.3741  0.3741 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08842 0.08842 0.08842 0.08842 0.08842 0.08842 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1181  0.1181  0.1181  0.1181  0.1181  0.1181 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09102 -0.09102 -0.09102 -0.09102 -0.09102 -0.09102 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03309 -0.03309 -0.03309 -0.03309 -0.03309 -0.03309 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4407  0.4407  0.4407  0.4407  0.4407  0.4407 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02968 -0.02968 -0.02968 -0.02968 -0.02968 -0.02968 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2685  0.2685  0.2685  0.2685  0.2685  0.2685 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2772  0.2772  0.2772  0.2772  0.2772  0.2772 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04911 -0.04911 -0.04911 -0.04911 -0.04911 -0.04911 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3226  0.3226  0.3226  0.3226  0.3226  0.3226 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09114 0.09114 0.09114 0.09114 0.09114 0.09114 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02575 -0.02575 -0.02575 -0.02575 -0.02575 -0.02575 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1205  0.1205  0.1205  0.1205  0.1205  0.1205 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06175 -0.06175 -0.06175 -0.06175 -0.06175 -0.06175 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04131 0.04131 0.04131 0.04131 0.04131 0.04131 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1462 -0.1462 -0.1462 -0.1462 -0.1462 -0.1462 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2432  0.2432  0.2432  0.2432  0.2432  0.2432 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1625 -0.1625 -0.1625 -0.1625 -0.1625 -0.1625 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09725 -0.09725 -0.09725 -0.09725 -0.09725 -0.09725 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08926 0.08926 0.08926 0.08926 0.08926 0.08926 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2901  0.2901  0.2901  0.2901  0.2901  0.2901 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3813  0.3813  0.3813  0.3813  0.3813  0.3813 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5684  0.5684  0.5684  0.5684  0.5684  0.5684 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7119  0.7119  0.7119  0.7119  0.7119  0.7119 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.442   0.442   0.442   0.442   0.442   0.442 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2682  0.2682  0.2682  0.2682  0.2682  0.2682 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1906  0.1906  0.1906  0.1906  0.1906  0.1906 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2272  0.2272  0.2272  0.2272  0.2272  0.2272 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2292  0.2292  0.2292  0.2292  0.2292  0.2292 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.005636 0.005636 0.005636 0.005636 0.005636 0.005636 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01035 0.01035 0.01035 0.01035 0.01035 0.01035 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01863 0.01863 0.01863 0.01863 0.01863 0.01863 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1156  0.1156  0.1156  0.1156  0.1156  0.1156 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0347 -0.0347 -0.0347 -0.0347 -0.0347 -0.0347 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06475 -0.06475 -0.06475 -0.06475 -0.06475 -0.06475 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09661 0.09661 0.09661 0.09661 0.09661 0.09661 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2365  0.2365  0.2365  0.2365  0.2365  0.2365 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.002864 0.002864 0.002864 0.002864 0.002864 0.002864 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1072  0.1072  0.1072  0.1072  0.1072  0.1072 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1285  0.1285  0.1285  0.1285  0.1285  0.1285 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04253 -0.04253 -0.04253 -0.04253 -0.04253 -0.04253 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2464  0.2464  0.2464  0.2464  0.2464  0.2464 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.137  -0.137  -0.137  -0.137  -0.137  -0.137 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2116  0.2116  0.2116  0.2116  0.2116  0.2116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1366  0.1366  0.1366  0.1366  0.1366  0.1366 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.119   0.119   0.119   0.119   0.119   0.119 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01001 -0.01001 -0.01001 -0.01001 -0.01001 -0.01001 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09807 0.09807 0.09807 0.09807 0.09807 0.09807 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06693 0.06693 0.06693 0.06693 0.06693 0.06693 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1002  0.1002  0.1002  0.1002  0.1002  0.1002 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06398 -0.06398 -0.06398 -0.06398 -0.06398 -0.06398 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05826 0.05826 0.05826 0.05826 0.05826 0.05826 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06791 -0.06791 -0.06791 -0.06791 -0.06791 -0.06791 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1094 -0.1094 -0.1094 -0.1094 -0.1094 -0.1094 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06653 -0.06653 -0.06653 -0.06653 -0.06653 -0.06653 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1292 -0.1292 -0.1292 -0.1292 -0.1292 -0.1292 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1111 -0.1111 -0.1111 -0.1111 -0.1111 -0.1111 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.195   0.195   0.195   0.195   0.195   0.195 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06898 0.06898 0.06898 0.06898 0.06898 0.06898 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08944 -0.08944 -0.08944 -0.08944 -0.08944 -0.08944 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1141 -0.1141 -0.1141 -0.1141 -0.1141 -0.1141 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1063 -0.1063 -0.1063 -0.1063 -0.1063 -0.1063 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1769 -0.1769 -0.1769 -0.1769 -0.1769 -0.1769 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.117  -0.117  -0.117  -0.117  -0.117  -0.117 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01914 0.01914 0.01914 0.01914 0.01914 0.01914 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1006  0.1006  0.1006  0.1006  0.1006  0.1006 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07386 -0.07386 -0.07386 -0.07386 -0.07386 -0.07386 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.03667 0.03667 0.03667 0.03667 0.03667 0.03667 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.108  -0.108  -0.108  -0.108  -0.108  -0.108 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4878  0.4878  0.4878  0.4878  0.4878  0.4878 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.168  -0.168  -0.168  -0.168  -0.168  -0.168 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2967  0.2967  0.2967  0.2967  0.2967  0.2967 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3474  0.3474  0.3474  0.3474  0.3474  0.3474 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1465  0.1465  0.1465  0.1465  0.1465  0.1465 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3624  0.3624  0.3624  0.3624  0.3624  0.3624 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09333 0.09333 0.09333 0.09333 0.09333 0.09333 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1989  0.1989  0.1989  0.1989  0.1989  0.1989 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2147  0.2147  0.2147  0.2147  0.2147  0.2147 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1646  0.1646  0.1646  0.1646  0.1646  0.1646 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1806  0.1806  0.1806  0.1806  0.1806  0.1806 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2974  0.2974  0.2974  0.2974  0.2974  0.2974 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4006  0.4006  0.4006  0.4006  0.4006  0.4006 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1765  0.1765  0.1765  0.1765  0.1765  0.1765 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1392  0.1392  0.1392  0.1392  0.1392  0.1392 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.232   0.232   0.232   0.232   0.232   0.232 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2755  0.2755  0.2755  0.2755  0.2755  0.2755 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5509  0.5509  0.5509  0.5509  0.5509  0.5509 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2276  0.2276  0.2276  0.2276  0.2276  0.2276 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     -1      -1      -1      -1      -1      -1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2759  0.2759  0.2759  0.2759  0.2759  0.2759 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2996  0.2996  0.2996  0.2996  0.2996  0.2996 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2481  0.2481  0.2481  0.2481  0.2481  0.2481 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2983  0.2983  0.2983  0.2983  0.2983  0.2983 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05633 -0.05633 -0.05633 -0.05633 -0.05633 -0.05633 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1781 -0.1781 -0.1781 -0.1781 -0.1781 -0.1781 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.002033 0.002033 0.002033 0.002033 0.002033 0.002033 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0228 -0.0228 -0.0228 -0.0228 -0.0228 -0.0228 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3047  0.3047  0.3047  0.3047  0.3047  0.3047 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.001202 -0.001202 -0.001202 -0.001202 -0.001202 -0.001202 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08522 0.08522 0.08522 0.08522 0.08522 0.08522 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07641 -0.07641 -0.07641 -0.07641 -0.07641 -0.07641 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01002 0.01002 0.01002 0.01002 0.01002 0.01002 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01641 0.01641 0.01641 0.01641 0.01641 0.01641 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03879 -0.03879 -0.03879 -0.03879 -0.03879 -0.03879 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0753 -0.0753 -0.0753 -0.0753 -0.0753 -0.0753 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04192 0.04192 0.04192 0.04192 0.04192 0.04192 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01909 -0.01909 -0.01909 -0.01909 -0.01909 -0.01909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1933  0.1933  0.1933  0.1933  0.1933  0.1933 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3471  0.3471  0.3471  0.3471  0.3471  0.3471 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5969  0.5969  0.5969  0.5969  0.5969  0.5969 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06476 0.06476 0.06476 0.06476 0.06476 0.06476 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1136  0.1136  0.1136  0.1136  0.1136  0.1136 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2209 -0.2209 -0.2209 -0.2209 -0.2209 -0.2209 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      1       1       1       1       1       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1817 -0.1817 -0.1817 -0.1817 -0.1817 -0.1817 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1438 -0.1438 -0.1438 -0.1438 -0.1438 -0.1438 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0177 -0.0177 -0.0177 -0.0177 -0.0177 -0.0177 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2849  0.2849  0.2849  0.2849  0.2849  0.2849 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3055  0.3055  0.3055  0.3055  0.3055  0.3055 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.15    0.15    0.15    0.15    0.15    0.15 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6732  0.6732  0.6732  0.6732  0.6732  0.6732 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1349  0.1349  0.1349  0.1349  0.1349  0.1349 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1729  0.1729  0.1729  0.1729  0.1729  0.1729 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2861  0.2861  0.2861  0.2861  0.2861  0.2861 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1067 -0.1067 -0.1067 -0.1067 -0.1067 -0.1067 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2447  0.2447  0.2447  0.2447  0.2447  0.2447 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.9118  0.9118  0.9118  0.9118  0.9118  0.9118 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3371  0.3371  0.3371  0.3371  0.3371  0.3371 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4248  0.4248  0.4248  0.4248  0.4248  0.4248 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09592 0.09592 0.09592 0.09592 0.09592 0.09592 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0229  0.0229  0.0229  0.0229  0.0229  0.0229 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1433  0.1433  0.1433  0.1433  0.1433  0.1433 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0872  0.0872  0.0872  0.0872  0.0872  0.0872 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4087  0.4087  0.4087  0.4087  0.4087  0.4087 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4252  0.4252  0.4252  0.4252  0.4252  0.4252 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3617  0.3617  0.3617  0.3617  0.3617  0.3617 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03509 -0.03509 -0.03509 -0.03509 -0.03509 -0.03509 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08239 -0.08239 -0.08239 -0.08239 -0.08239 -0.08239 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5249  0.5249  0.5249  0.5249  0.5249  0.5249 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09474 -0.09474 -0.09474 -0.09474 -0.09474 -0.09474 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08757 -0.08757 -0.08757 -0.08757 -0.08757 -0.08757 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06041 -0.06041 -0.06041 -0.06041 -0.06041 -0.06041 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0924 -0.0924 -0.0924 -0.0924 -0.0924 -0.0924 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1832 -0.1832 -0.1832 -0.1832 -0.1832 -0.1832 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1247  0.1247  0.1247  0.1247  0.1247  0.1247 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.053  -0.053  -0.053  -0.053  -0.053  -0.053 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03991 -0.03991 -0.03991 -0.03991 -0.03991 -0.03991 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01016 0.01016 0.01016 0.01016 0.01016 0.01016 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4518  0.4518  0.4518  0.4518  0.4518  0.4518 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2958  0.2958  0.2958  0.2958  0.2958  0.2958 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6153  0.6153  0.6153  0.6153  0.6153  0.6153 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07521 -0.07521 -0.07521 -0.07521 -0.07521 -0.07521 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1322  0.1322  0.1322  0.1322  0.1322  0.1322 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08955 0.08955 0.08955 0.08955 0.08955 0.08955 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01909 -0.01909 -0.01909 -0.01909 -0.01909 -0.01909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1373 -0.1373 -0.1373 -0.1373 -0.1373 -0.1373 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04555 -0.04555 -0.04555 -0.04555 -0.04555 -0.04555 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05551 -0.05551 -0.05551 -0.05551 -0.05551 -0.05551 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04473 0.04473 0.04473 0.04473 0.04473 0.04473 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.009589 -0.009589 -0.009589 -0.009589 -0.009589 -0.009589 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2116  0.2116  0.2116  0.2116  0.2116  0.2116 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07397 -0.07397 -0.07397 -0.07397 -0.07397 -0.07397 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1258  0.1258  0.1258  0.1258  0.1258  0.1258 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1338 -0.1338 -0.1338 -0.1338 -0.1338 -0.1338 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1127  0.1127  0.1127  0.1127  0.1127  0.1127 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1384  0.1384  0.1384  0.1384  0.1384  0.1384 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.003208 -0.003208 -0.003208 -0.003208 -0.003208 -0.003208 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05264 -0.05264 -0.05264 -0.05264 -0.05264 -0.05264 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04217 0.04217 0.04217 0.04217 0.04217 0.04217 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06746 -0.06746 -0.06746 -0.06746 -0.06746 -0.06746 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03088 -0.03088 -0.03088 -0.03088 -0.03088 -0.03088 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01781 0.01781 0.01781 0.01781 0.01781 0.01781 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.02614 0.02614 0.02614 0.02614 0.02614 0.02614 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05029 -0.05029 -0.05029 -0.05029 -0.05029 -0.05029 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01654 0.01654 0.01654 0.01654 0.01654 0.01654 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5858  0.5858  0.5858  0.5858  0.5858  0.5858 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1999  0.1999  0.1999  0.1999  0.1999  0.1999 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6955  0.6955  0.6955  0.6955  0.6955  0.6955 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4822  0.4822  0.4822  0.4822  0.4822  0.4822 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3551  0.3551  0.3551  0.3551  0.3551  0.3551 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5896  0.5896  0.5896  0.5896  0.5896  0.5896 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.368   0.368   0.368   0.368   0.368   0.368 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02909 -0.02909 -0.02909 -0.02909 -0.02909 -0.02909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0745 -0.0745 -0.0745 -0.0745 -0.0745 -0.0745 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2883 -0.2883 -0.2883 -0.2883 -0.2883 -0.2883 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2621  0.2621  0.2621  0.2621  0.2621  0.2621 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.8922  0.8922  0.8922  0.8922  0.8922  0.8922 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.116   0.116   0.116   0.116   0.116   0.116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2027  0.2027  0.2027  0.2027  0.2027  0.2027 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.07278 0.07278 0.07278 0.07278 0.07278 0.07278 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.005387 -0.005387 -0.005387 -0.005387 -0.005387 -0.005387 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2588  0.2588  0.2588  0.2588  0.2588  0.2588 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1441  0.1441  0.1441  0.1441  0.1441  0.1441 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1019  0.1019  0.1019  0.1019  0.1019  0.1019 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.02302 0.02302 0.02302 0.02302 0.02302 0.02302 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.07459 0.07459 0.07459 0.07459 0.07459 0.07459 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2567  0.2567  0.2567  0.2567  0.2567  0.2567 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1624  0.1624  0.1624  0.1624  0.1624  0.1624 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.003454 -0.003454 -0.003454 -0.003454 -0.003454 -0.003454 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1901  0.1901  0.1901  0.1901  0.1901  0.1901 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1846  0.1846  0.1846  0.1846  0.1846  0.1846 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1206  0.1206  0.1206  0.1206  0.1206  0.1206 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7116  0.7116  0.7116  0.7116  0.7116  0.7116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1762 -0.1762 -0.1762 -0.1762 -0.1762 -0.1762 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1447 -0.1447 -0.1447 -0.1447 -0.1447 -0.1447 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1471  0.1471  0.1471  0.1471  0.1471  0.1471 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2735  0.2735  0.2735  0.2735  0.2735  0.2735 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1533  0.1533  0.1533  0.1533  0.1533  0.1533 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1096  0.1096  0.1096  0.1096  0.1096  0.1096 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09286 -0.09286 -0.09286 -0.09286 -0.09286 -0.09286 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.213  -0.213  -0.213  -0.213  -0.213  -0.213 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1828 -0.1828 -0.1828 -0.1828 -0.1828 -0.1828 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2616  0.2616  0.2616  0.2616  0.2616  0.2616 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.008837 -0.008837 -0.008837 -0.008837 -0.008837 -0.008837 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3566  0.3566  0.3566  0.3566  0.3566  0.3566 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2533  0.2533  0.2533  0.2533  0.2533  0.2533 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08913 -0.08913 -0.08913 -0.08913 -0.08913 -0.08913 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01719 -0.01719 -0.01719 -0.01719 -0.01719 -0.01719 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1563 -0.1563 -0.1563 -0.1563 -0.1563 -0.1563 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04254 -0.04254 -0.04254 -0.04254 -0.04254 -0.04254 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01024 0.01024 0.01024 0.01024 0.01024 0.01024 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.009913 -0.009913 -0.009913 -0.009913 -0.009913 -0.009913 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04291 -0.04291 -0.04291 -0.04291 -0.04291 -0.04291 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2106 -0.2106 -0.2106 -0.2106 -0.2106 -0.2106 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.156  -0.156  -0.156  -0.156  -0.156  -0.156 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7173  0.7173  0.7173  0.7173  0.7173  0.7173 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04621 0.04621 0.04621 0.04621 0.04621 0.04621 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06081 -0.06081 -0.06081 -0.06081 -0.06081 -0.06081 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1841  0.1841  0.1841  0.1841  0.1841  0.1841 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.008547 -0.008547 -0.008547 -0.008547 -0.008547 -0.008547 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08116 -0.08116 -0.08116 -0.08116 -0.08116 -0.08116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01768 0.01768 0.01768 0.01768 0.01768 0.01768 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03785 -0.03785 -0.03785 -0.03785 -0.03785 -0.03785 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1238 -0.1238 -0.1238 -0.1238 -0.1238 -0.1238 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1609  0.1609  0.1609  0.1609  0.1609  0.1609 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1915  0.1915  0.1915  0.1915  0.1915  0.1915 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1277  0.1277  0.1277  0.1277  0.1277  0.1277 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08121 -0.08121 -0.08121 -0.08121 -0.08121 -0.08121 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2631  0.2631  0.2631  0.2631  0.2631  0.2631 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7569  0.7569  0.7569  0.7569  0.7569  0.7569 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.786   0.786   0.786   0.786   0.786   0.786 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6151  0.6151  0.6151  0.6151  0.6151  0.6151 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5983  0.5983  0.5983  0.5983  0.5983  0.5983 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5065  0.5065  0.5065  0.5065  0.5065  0.5065 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1918  0.1918  0.1918  0.1918  0.1918  0.1918 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02472 -0.02472 -0.02472 -0.02472 -0.02472 -0.02472 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1106 -0.1106 -0.1106 -0.1106 -0.1106 -0.1106 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1506 -0.1506 -0.1506 -0.1506 -0.1506 -0.1506 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0025 -0.0025 -0.0025 -0.0025 -0.0025 -0.0025 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1662 -0.1662 -0.1662 -0.1662 -0.1662 -0.1662 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2255  0.2255  0.2255  0.2255  0.2255  0.2255 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6193  0.6193  0.6193  0.6193  0.6193  0.6193 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5314  0.5314  0.5314  0.5314  0.5314  0.5314 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3453  0.3453  0.3453  0.3453  0.3453  0.3453 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5201  0.5201  0.5201  0.5201  0.5201  0.5201 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4667  0.4667  0.4667  0.4667  0.4667  0.4667 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5188  0.5188  0.5188  0.5188  0.5188  0.5188 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3942  0.3942  0.3942  0.3942  0.3942  0.3942 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2135  0.2135  0.2135  0.2135  0.2135  0.2135 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2606  0.2606  0.2606  0.2606  0.2606  0.2606 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3794  0.3794  0.3794  0.3794  0.3794  0.3794 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5624  0.5624  0.5624  0.5624  0.5624  0.5624 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1232 -0.1232 -0.1232 -0.1232 -0.1232 -0.1232 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06157 -0.06157 -0.06157 -0.06157 -0.06157 -0.06157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1801 -0.1801 -0.1801 -0.1801 -0.1801 -0.1801 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4586  0.4586  0.4586  0.4586  0.4586  0.4586 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7286  0.7286  0.7286  0.7286  0.7286  0.7286 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.254   0.254   0.254   0.254   0.254   0.254 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1399  0.1399  0.1399  0.1399  0.1399  0.1399 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3164  0.3164  0.3164  0.3164  0.3164  0.3164 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2688  0.2688  0.2688  0.2688  0.2688  0.2688 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2794  0.2794  0.2794  0.2794  0.2794  0.2794 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2673  0.2673  0.2673  0.2673  0.2673  0.2673 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2871  0.2871  0.2871  0.2871  0.2871  0.2871 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1462  0.1462  0.1462  0.1462  0.1462  0.1462 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2226 -0.2226 -0.2226 -0.2226 -0.2226 -0.2226 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01896 -0.01896 -0.01896 -0.01896 -0.01896 -0.01896 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1405 -0.1405 -0.1405 -0.1405 -0.1405 -0.1405 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0439 -0.0439 -0.0439 -0.0439 -0.0439 -0.0439 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06816 -0.06816 -0.06816 -0.06816 -0.06816 -0.06816 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1235 -0.1235 -0.1235 -0.1235 -0.1235 -0.1235 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07589 -0.07589 -0.07589 -0.07589 -0.07589 -0.07589 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1597 -0.1597 -0.1597 -0.1597 -0.1597 -0.1597 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08684 -0.08684 -0.08684 -0.08684 -0.08684 -0.08684 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1614  0.1614  0.1614  0.1614  0.1614  0.1614 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7631  0.7631  0.7631  0.7631  0.7631  0.7631 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07881 -0.07881 -0.07881 -0.07881 -0.07881 -0.07881 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.5454 -0.5454 -0.5454 -0.5454 -0.5454 -0.5454 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2227 -0.2227 -0.2227 -0.2227 -0.2227 -0.2227 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1781 -0.1781 -0.1781 -0.1781 -0.1781 -0.1781 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.4613 -0.4613 -0.4613 -0.4613 -0.4613 -0.4613 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1578 -0.1578 -0.1578 -0.1578 -0.1578 -0.1578 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2235 -0.2235 -0.2235 -0.2235 -0.2235 -0.2235 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.157  -0.157  -0.157  -0.157  -0.157  -0.157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1116 -0.1116 -0.1116 -0.1116 -0.1116 -0.1116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0449 -0.0449 -0.0449 -0.0449 -0.0449 -0.0449 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05036 0.05036 0.05036 0.05036 0.05036 0.05036 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1172  0.1172  0.1172  0.1172  0.1172  0.1172 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2591  0.2591  0.2591  0.2591  0.2591  0.2591 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1333  0.1333  0.1333  0.1333  0.1333  0.1333 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3662  0.3662  0.3662  0.3662  0.3662  0.3662 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5808  0.5808  0.5808  0.5808  0.5808  0.5808 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.006864 0.006864 0.006864 0.006864 0.006864 0.006864 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7267  0.7267  0.7267  0.7267  0.7267  0.7267 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05774 0.05774 0.05774 0.05774 0.05774 0.05774 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1153  0.1153  0.1153  0.1153  0.1153  0.1153 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4658  0.4658  0.4658  0.4658  0.4658  0.4658 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5158  0.5158  0.5158  0.5158  0.5158  0.5158 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4127  0.4127  0.4127  0.4127  0.4127  0.4127 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3756  0.3756  0.3756  0.3756  0.3756  0.3756 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3157  0.3157  0.3157  0.3157  0.3157  0.3157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2446  0.2446  0.2446  0.2446  0.2446  0.2446 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5944  0.5944  0.5944  0.5944  0.5944  0.5944 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5535  0.5535  0.5535  0.5535  0.5535  0.5535 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4697  0.4697  0.4697  0.4697  0.4697  0.4697 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6143  0.6143  0.6143  0.6143  0.6143  0.6143 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2977 -0.2977 -0.2977 -0.2977 -0.2977 -0.2977 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1819  0.1819  0.1819  0.1819  0.1819  0.1819 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4605  0.4605  0.4605  0.4605  0.4605  0.4605 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.405   0.405   0.405   0.405   0.405   0.405 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4329  0.4329  0.4329  0.4329  0.4329  0.4329 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4348  0.4348  0.4348  0.4348  0.4348  0.4348 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3741  0.3741  0.3741  0.3741  0.3741  0.3741 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08842 0.08842 0.08842 0.08842 0.08842 0.08842 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1181  0.1181  0.1181  0.1181  0.1181  0.1181 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09102 -0.09102 -0.09102 -0.09102 -0.09102 -0.09102 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03309 -0.03309 -0.03309 -0.03309 -0.03309 -0.03309 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4407  0.4407  0.4407  0.4407  0.4407  0.4407 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02968 -0.02968 -0.02968 -0.02968 -0.02968 -0.02968 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2685  0.2685  0.2685  0.2685  0.2685  0.2685 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2772  0.2772  0.2772  0.2772  0.2772  0.2772 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04911 -0.04911 -0.04911 -0.04911 -0.04911 -0.04911 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3226  0.3226  0.3226  0.3226  0.3226  0.3226 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09114 0.09114 0.09114 0.09114 0.09114 0.09114 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02575 -0.02575 -0.02575 -0.02575 -0.02575 -0.02575 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1205  0.1205  0.1205  0.1205  0.1205  0.1205 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06175 -0.06175 -0.06175 -0.06175 -0.06175 -0.06175 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04131 0.04131 0.04131 0.04131 0.04131 0.04131 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1462 -0.1462 -0.1462 -0.1462 -0.1462 -0.1462 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2432  0.2432  0.2432  0.2432  0.2432  0.2432 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1625 -0.1625 -0.1625 -0.1625 -0.1625 -0.1625 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09725 -0.09725 -0.09725 -0.09725 -0.09725 -0.09725 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08926 0.08926 0.08926 0.08926 0.08926 0.08926 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2901  0.2901  0.2901  0.2901  0.2901  0.2901 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3813  0.3813  0.3813  0.3813  0.3813  0.3813 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5684  0.5684  0.5684  0.5684  0.5684  0.5684 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7119  0.7119  0.7119  0.7119  0.7119  0.7119 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.442   0.442   0.442   0.442   0.442   0.442 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2682  0.2682  0.2682  0.2682  0.2682  0.2682 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1906  0.1906  0.1906  0.1906  0.1906  0.1906 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2272  0.2272  0.2272  0.2272  0.2272  0.2272 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2292  0.2292  0.2292  0.2292  0.2292  0.2292 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.005636 0.005636 0.005636 0.005636 0.005636 0.005636 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01035 0.01035 0.01035 0.01035 0.01035 0.01035 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01863 0.01863 0.01863 0.01863 0.01863 0.01863 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1156  0.1156  0.1156  0.1156  0.1156  0.1156 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0347 -0.0347 -0.0347 -0.0347 -0.0347 -0.0347 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06475 -0.06475 -0.06475 -0.06475 -0.06475 -0.06475 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09661 0.09661 0.09661 0.09661 0.09661 0.09661 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2365  0.2365  0.2365  0.2365  0.2365  0.2365 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.002864 0.002864 0.002864 0.002864 0.002864 0.002864 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1072  0.1072  0.1072  0.1072  0.1072  0.1072 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1285  0.1285  0.1285  0.1285  0.1285  0.1285 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04253 -0.04253 -0.04253 -0.04253 -0.04253 -0.04253 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2464  0.2464  0.2464  0.2464  0.2464  0.2464 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.137  -0.137  -0.137  -0.137  -0.137  -0.137 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2116  0.2116  0.2116  0.2116  0.2116  0.2116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1366  0.1366  0.1366  0.1366  0.1366  0.1366 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.119   0.119   0.119   0.119   0.119   0.119 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01001 -0.01001 -0.01001 -0.01001 -0.01001 -0.01001 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09807 0.09807 0.09807 0.09807 0.09807 0.09807 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06693 0.06693 0.06693 0.06693 0.06693 0.06693 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1002  0.1002  0.1002  0.1002  0.1002  0.1002 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06398 -0.06398 -0.06398 -0.06398 -0.06398 -0.06398 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.05826 0.05826 0.05826 0.05826 0.05826 0.05826 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06791 -0.06791 -0.06791 -0.06791 -0.06791 -0.06791 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1094 -0.1094 -0.1094 -0.1094 -0.1094 -0.1094 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06653 -0.06653 -0.06653 -0.06653 -0.06653 -0.06653 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1292 -0.1292 -0.1292 -0.1292 -0.1292 -0.1292 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1111 -0.1111 -0.1111 -0.1111 -0.1111 -0.1111 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.195   0.195   0.195   0.195   0.195   0.195 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06898 0.06898 0.06898 0.06898 0.06898 0.06898 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08944 -0.08944 -0.08944 -0.08944 -0.08944 -0.08944 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1141 -0.1141 -0.1141 -0.1141 -0.1141 -0.1141 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1063 -0.1063 -0.1063 -0.1063 -0.1063 -0.1063 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1769 -0.1769 -0.1769 -0.1769 -0.1769 -0.1769 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.117  -0.117  -0.117  -0.117  -0.117  -0.117 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01914 0.01914 0.01914 0.01914 0.01914 0.01914 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1006  0.1006  0.1006  0.1006  0.1006  0.1006 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07386 -0.07386 -0.07386 -0.07386 -0.07386 -0.07386 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.03667 0.03667 0.03667 0.03667 0.03667 0.03667 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.108  -0.108  -0.108  -0.108  -0.108  -0.108 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4878  0.4878  0.4878  0.4878  0.4878  0.4878 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.168  -0.168  -0.168  -0.168  -0.168  -0.168 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2967  0.2967  0.2967  0.2967  0.2967  0.2967 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3474  0.3474  0.3474  0.3474  0.3474  0.3474 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1465  0.1465  0.1465  0.1465  0.1465  0.1465 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3624  0.3624  0.3624  0.3624  0.3624  0.3624 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09333 0.09333 0.09333 0.09333 0.09333 0.09333 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1989  0.1989  0.1989  0.1989  0.1989  0.1989 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2147  0.2147  0.2147  0.2147  0.2147  0.2147 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1646  0.1646  0.1646  0.1646  0.1646  0.1646 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1806  0.1806  0.1806  0.1806  0.1806  0.1806 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2974  0.2974  0.2974  0.2974  0.2974  0.2974 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4006  0.4006  0.4006  0.4006  0.4006  0.4006 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1765  0.1765  0.1765  0.1765  0.1765  0.1765 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1392  0.1392  0.1392  0.1392  0.1392  0.1392 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.232   0.232   0.232   0.232   0.232   0.232 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2755  0.2755  0.2755  0.2755  0.2755  0.2755 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5509  0.5509  0.5509  0.5509  0.5509  0.5509 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2276  0.2276  0.2276  0.2276  0.2276  0.2276 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     -1      -1      -1      -1      -1      -1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2759  0.2759  0.2759  0.2759  0.2759  0.2759 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2996  0.2996  0.2996  0.2996  0.2996  0.2996 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2481  0.2481  0.2481  0.2481  0.2481  0.2481 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2983  0.2983  0.2983  0.2983  0.2983  0.2983 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05633 -0.05633 -0.05633 -0.05633 -0.05633 -0.05633 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1781 -0.1781 -0.1781 -0.1781 -0.1781 -0.1781 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+0.002033 0.002033 0.002033 0.002033 0.002033 0.002033 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0228 -0.0228 -0.0228 -0.0228 -0.0228 -0.0228 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3047  0.3047  0.3047  0.3047  0.3047  0.3047 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.001202 -0.001202 -0.001202 -0.001202 -0.001202 -0.001202 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08522 0.08522 0.08522 0.08522 0.08522 0.08522 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07641 -0.07641 -0.07641 -0.07641 -0.07641 -0.07641 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01002 0.01002 0.01002 0.01002 0.01002 0.01002 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01641 0.01641 0.01641 0.01641 0.01641 0.01641 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03879 -0.03879 -0.03879 -0.03879 -0.03879 -0.03879 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0753 -0.0753 -0.0753 -0.0753 -0.0753 -0.0753 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04192 0.04192 0.04192 0.04192 0.04192 0.04192 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01909 -0.01909 -0.01909 -0.01909 -0.01909 -0.01909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1933  0.1933  0.1933  0.1933  0.1933  0.1933 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3471  0.3471  0.3471  0.3471  0.3471  0.3471 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5969  0.5969  0.5969  0.5969  0.5969  0.5969 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.06476 0.06476 0.06476 0.06476 0.06476 0.06476 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1136  0.1136  0.1136  0.1136  0.1136  0.1136 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2209 -0.2209 -0.2209 -0.2209 -0.2209 -0.2209 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      1       1       1       1       1       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1817 -0.1817 -0.1817 -0.1817 -0.1817 -0.1817 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1438 -0.1438 -0.1438 -0.1438 -0.1438 -0.1438 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0177 -0.0177 -0.0177 -0.0177 -0.0177 -0.0177 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2849  0.2849  0.2849  0.2849  0.2849  0.2849 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3055  0.3055  0.3055  0.3055  0.3055  0.3055 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.15    0.15    0.15    0.15    0.15    0.15 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6732  0.6732  0.6732  0.6732  0.6732  0.6732 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1349  0.1349  0.1349  0.1349  0.1349  0.1349 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1729  0.1729  0.1729  0.1729  0.1729  0.1729 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2861  0.2861  0.2861  0.2861  0.2861  0.2861 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1067 -0.1067 -0.1067 -0.1067 -0.1067 -0.1067 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2447  0.2447  0.2447  0.2447  0.2447  0.2447 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.9118  0.9118  0.9118  0.9118  0.9118  0.9118 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3371  0.3371  0.3371  0.3371  0.3371  0.3371 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4248  0.4248  0.4248  0.4248  0.4248  0.4248 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.09592 0.09592 0.09592 0.09592 0.09592 0.09592 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0229  0.0229  0.0229  0.0229  0.0229  0.0229 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1433  0.1433  0.1433  0.1433  0.1433  0.1433 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0872  0.0872  0.0872  0.0872  0.0872  0.0872 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4087  0.4087  0.4087  0.4087  0.4087  0.4087 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4252  0.4252  0.4252  0.4252  0.4252  0.4252 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3617  0.3617  0.3617  0.3617  0.3617  0.3617 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03509 -0.03509 -0.03509 -0.03509 -0.03509 -0.03509 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08239 -0.08239 -0.08239 -0.08239 -0.08239 -0.08239 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5249  0.5249  0.5249  0.5249  0.5249  0.5249 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09474 -0.09474 -0.09474 -0.09474 -0.09474 -0.09474 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08757 -0.08757 -0.08757 -0.08757 -0.08757 -0.08757 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06041 -0.06041 -0.06041 -0.06041 -0.06041 -0.06041 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0924 -0.0924 -0.0924 -0.0924 -0.0924 -0.0924 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1832 -0.1832 -0.1832 -0.1832 -0.1832 -0.1832 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1247  0.1247  0.1247  0.1247  0.1247  0.1247 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.053  -0.053  -0.053  -0.053  -0.053  -0.053 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03991 -0.03991 -0.03991 -0.03991 -0.03991 -0.03991 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01016 0.01016 0.01016 0.01016 0.01016 0.01016 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4518  0.4518  0.4518  0.4518  0.4518  0.4518 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2958  0.2958  0.2958  0.2958  0.2958  0.2958 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6153  0.6153  0.6153  0.6153  0.6153  0.6153 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07521 -0.07521 -0.07521 -0.07521 -0.07521 -0.07521 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1322  0.1322  0.1322  0.1322  0.1322  0.1322 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.08955 0.08955 0.08955 0.08955 0.08955 0.08955 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01909 -0.01909 -0.01909 -0.01909 -0.01909 -0.01909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1373 -0.1373 -0.1373 -0.1373 -0.1373 -0.1373 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04555 -0.04555 -0.04555 -0.04555 -0.04555 -0.04555 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05551 -0.05551 -0.05551 -0.05551 -0.05551 -0.05551 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04473 0.04473 0.04473 0.04473 0.04473 0.04473 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.009589 -0.009589 -0.009589 -0.009589 -0.009589 -0.009589 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2116  0.2116  0.2116  0.2116  0.2116  0.2116 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.07397 -0.07397 -0.07397 -0.07397 -0.07397 -0.07397 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1258  0.1258  0.1258  0.1258  0.1258  0.1258 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1338 -0.1338 -0.1338 -0.1338 -0.1338 -0.1338 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1127  0.1127  0.1127  0.1127  0.1127  0.1127 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1384  0.1384  0.1384  0.1384  0.1384  0.1384 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.003208 -0.003208 -0.003208 -0.003208 -0.003208 -0.003208 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05264 -0.05264 -0.05264 -0.05264 -0.05264 -0.05264 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04217 0.04217 0.04217 0.04217 0.04217 0.04217 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06746 -0.06746 -0.06746 -0.06746 -0.06746 -0.06746 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03088 -0.03088 -0.03088 -0.03088 -0.03088 -0.03088 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01781 0.01781 0.01781 0.01781 0.01781 0.01781 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.02614 0.02614 0.02614 0.02614 0.02614 0.02614 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.05029 -0.05029 -0.05029 -0.05029 -0.05029 -0.05029 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01654 0.01654 0.01654 0.01654 0.01654 0.01654 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5858  0.5858  0.5858  0.5858  0.5858  0.5858 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1999  0.1999  0.1999  0.1999  0.1999  0.1999 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6955  0.6955  0.6955  0.6955  0.6955  0.6955 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4822  0.4822  0.4822  0.4822  0.4822  0.4822 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3551  0.3551  0.3551  0.3551  0.3551  0.3551 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5896  0.5896  0.5896  0.5896  0.5896  0.5896 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.368   0.368   0.368   0.368   0.368   0.368 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02909 -0.02909 -0.02909 -0.02909 -0.02909 -0.02909 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0745 -0.0745 -0.0745 -0.0745 -0.0745 -0.0745 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2883 -0.2883 -0.2883 -0.2883 -0.2883 -0.2883 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2621  0.2621  0.2621  0.2621  0.2621  0.2621 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.8922  0.8922  0.8922  0.8922  0.8922  0.8922 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.116   0.116   0.116   0.116   0.116   0.116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2027  0.2027  0.2027  0.2027  0.2027  0.2027 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.07278 0.07278 0.07278 0.07278 0.07278 0.07278 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.005387 -0.005387 -0.005387 -0.005387 -0.005387 -0.005387 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2588  0.2588  0.2588  0.2588  0.2588  0.2588 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1441  0.1441  0.1441  0.1441  0.1441  0.1441 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1019  0.1019  0.1019  0.1019  0.1019  0.1019 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.02302 0.02302 0.02302 0.02302 0.02302 0.02302 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.07459 0.07459 0.07459 0.07459 0.07459 0.07459 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2567  0.2567  0.2567  0.2567  0.2567  0.2567 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1624  0.1624  0.1624  0.1624  0.1624  0.1624 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.003454 -0.003454 -0.003454 -0.003454 -0.003454 -0.003454 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1901  0.1901  0.1901  0.1901  0.1901  0.1901 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1846  0.1846  0.1846  0.1846  0.1846  0.1846 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1206  0.1206  0.1206  0.1206  0.1206  0.1206 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7116  0.7116  0.7116  0.7116  0.7116  0.7116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1762 -0.1762 -0.1762 -0.1762 -0.1762 -0.1762 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1447 -0.1447 -0.1447 -0.1447 -0.1447 -0.1447 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1471  0.1471  0.1471  0.1471  0.1471  0.1471 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2735  0.2735  0.2735  0.2735  0.2735  0.2735 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1533  0.1533  0.1533  0.1533  0.1533  0.1533 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1096  0.1096  0.1096  0.1096  0.1096  0.1096 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.09286 -0.09286 -0.09286 -0.09286 -0.09286 -0.09286 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.213  -0.213  -0.213  -0.213  -0.213  -0.213 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1828 -0.1828 -0.1828 -0.1828 -0.1828 -0.1828 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2616  0.2616  0.2616  0.2616  0.2616  0.2616 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.008837 -0.008837 -0.008837 -0.008837 -0.008837 -0.008837 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3566  0.3566  0.3566  0.3566  0.3566  0.3566 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2533  0.2533  0.2533  0.2533  0.2533  0.2533 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08913 -0.08913 -0.08913 -0.08913 -0.08913 -0.08913 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.01719 -0.01719 -0.01719 -0.01719 -0.01719 -0.01719 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1563 -0.1563 -0.1563 -0.1563 -0.1563 -0.1563 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04254 -0.04254 -0.04254 -0.04254 -0.04254 -0.04254 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01024 0.01024 0.01024 0.01024 0.01024 0.01024 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.009913 -0.009913 -0.009913 -0.009913 -0.009913 -0.009913 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.04291 -0.04291 -0.04291 -0.04291 -0.04291 -0.04291 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.2106 -0.2106 -0.2106 -0.2106 -0.2106 -0.2106 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ -0.156  -0.156  -0.156  -0.156  -0.156  -0.156 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7173  0.7173  0.7173  0.7173  0.7173  0.7173 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.04621 0.04621 0.04621 0.04621 0.04621 0.04621 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06081 -0.06081 -0.06081 -0.06081 -0.06081 -0.06081 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1841  0.1841  0.1841  0.1841  0.1841  0.1841 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-0.008547 -0.008547 -0.008547 -0.008547 -0.008547 -0.008547 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08116 -0.08116 -0.08116 -0.08116 -0.08116 -0.08116 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.01768 0.01768 0.01768 0.01768 0.01768 0.01768 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.03785 -0.03785 -0.03785 -0.03785 -0.03785 -0.03785 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1238 -0.1238 -0.1238 -0.1238 -0.1238 -0.1238 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1609  0.1609  0.1609  0.1609  0.1609  0.1609 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1915  0.1915  0.1915  0.1915  0.1915  0.1915 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1277  0.1277  0.1277  0.1277  0.1277  0.1277 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA       1 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.08121 -0.08121 -0.08121 -0.08121 -0.08121 -0.08121 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2631  0.2631  0.2631  0.2631  0.2631  0.2631 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7569  0.7569  0.7569  0.7569  0.7569  0.7569 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.786   0.786   0.786   0.786   0.786   0.786 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6151  0.6151  0.6151  0.6151  0.6151  0.6151 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5983  0.5983  0.5983  0.5983  0.5983  0.5983 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5065  0.5065  0.5065  0.5065  0.5065  0.5065 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1918  0.1918  0.1918  0.1918  0.1918  0.1918 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.02472 -0.02472 -0.02472 -0.02472 -0.02472 -0.02472 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1106 -0.1106 -0.1106 -0.1106 -0.1106 -0.1106 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1506 -0.1506 -0.1506 -0.1506 -0.1506 -0.1506 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.0025 -0.0025 -0.0025 -0.0025 -0.0025 -0.0025 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1662 -0.1662 -0.1662 -0.1662 -0.1662 -0.1662 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2255  0.2255  0.2255  0.2255  0.2255  0.2255 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.6193  0.6193  0.6193  0.6193  0.6193  0.6193 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5314  0.5314  0.5314  0.5314  0.5314  0.5314 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3453  0.3453  0.3453  0.3453  0.3453  0.3453 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5201  0.5201  0.5201  0.5201  0.5201  0.5201 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4667  0.4667  0.4667  0.4667  0.4667  0.4667 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5188  0.5188  0.5188  0.5188  0.5188  0.5188 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3942  0.3942  0.3942  0.3942  0.3942  0.3942 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2135  0.2135  0.2135  0.2135  0.2135  0.2135 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2606  0.2606  0.2606  0.2606  0.2606  0.2606 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3794  0.3794  0.3794  0.3794  0.3794  0.3794 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.5624  0.5624  0.5624  0.5624  0.5624  0.5624 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1232 -0.1232 -0.1232 -0.1232 -0.1232 -0.1232 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-0.06157 -0.06157 -0.06157 -0.06157 -0.06157 -0.06157 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+-0.1801 -0.1801 -0.1801 -0.1801 -0.1801 -0.1801 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.4586  0.4586  0.4586  0.4586  0.4586  0.4586 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.7286  0.7286  0.7286  0.7286  0.7286  0.7286 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.254   0.254   0.254   0.254   0.254   0.254 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1399  0.1399  0.1399  0.1399  0.1399  0.1399 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.3164  0.3164  0.3164  0.3164  0.3164  0.3164 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2688  0.2688  0.2688  0.2688  0.2688  0.2688 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2794  0.2794  0.2794  0.2794  0.2794  0.2794 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2673  0.2673  0.2673  0.2673  0.2673  0.2673 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2871  0.2871  0.2871  0.2871  0.2871  0.2871 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.1462  0.1462  0.1462  0.1462  0.1462  0.1462 

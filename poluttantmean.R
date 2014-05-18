@@ -7,14 +7,20 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
         ## 'id' is an integer vector indicating the monitor ID numbers
         ## to be used
 
-        filenames <- list.files (path = directory)
-        filecount <- length(filenames)
+        files <- getfileinfo(directory)
+        output <- NULL 
         for (i in id){
-                filename<- filenames[i]
-                filepath <- paste (directory , filename, sep ="")
-                data <- read.csv(file = filepath)
-                print(paste("File", filename, "loaded"))
+                filename<- files[files$monitorid ==i, 1]
+                filepath <- paste (directory,"/" , filename, sep ="")
+                data <- read.csv(file = filepath, header =TRUE)
+                colNames <- colnames (data)
+                pollmean <- colMeans (data[data$pollutant], na.rm = TRUE)
+                colindex <- match (tolower(pollutant) , tolower(colNames))
+                output <- c(output, data[,colindex]) 
+                outputmean <- mean(output, na.rm = TRUE)
         }
+        outputmean
+        
         ## Return the mean of the pollutant across all monitors list
         ## in the 'id' vector (ignoring NA values)        
 

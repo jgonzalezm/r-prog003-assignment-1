@@ -19,7 +19,7 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
                 output <- c(output, data[,colindex]) 
                 outputmean <- mean(output, na.rm = TRUE)
         }
-        outputmeansource("http://d396qusza40orc.cloudfront.net/rprog%2Fscripts%2Fsubmitscript1.R")
+        outputmeans
         
         ## Return the mean of the pollutant across all monitors list
         ## in the 'id' vector (ignoring NA values)        

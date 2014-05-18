@@ -6,7 +6,7 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
         ## mean; either "sulfate" or "nitrate".
         ## 'id' is an integer vector indicating the monitor ID numbers
         ## to be used
-
+        
         files <- getfileinfo(directory)
         output <- NULL 
         for (i in id){
@@ -19,13 +19,13 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
                 output <- c(output, data[,colindex]) 
                 outputmean <- mean(output, na.rm = TRUE)
         }
-        outputmean
+        outputmeansource("http://d396qusza40orc.cloudfront.net/rprog%2Fscripts%2Fsubmitscript1.R")
         
         ## Return the mean of the pollutant across all monitors list
         ## in the 'id' vector (ignoring NA values)        
-
-
-
+        
+        
+        
 }
 
 getfileinfo <- function (directory){
@@ -35,4 +35,3 @@ getfileinfo <- function (directory){
         names(files) <- c("filename","monitorid")
         return(files)     
 }
-
